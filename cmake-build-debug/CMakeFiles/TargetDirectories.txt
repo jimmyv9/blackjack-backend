@@ -1,0 +1,3 @@
+/Users/JPV/Documents/Joao/Rhodes/2017-2018/2017 Fall/Computer Science/1_Veloso_Joao/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/JPV/Documents/Joao/Rhodes/2017-2018/2017 Fall/Computer Science/1_Veloso_Joao/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/JPV/Documents/Joao/Rhodes/2017-2018/2017 Fall/Computer Science/1_Veloso_Joao/cmake-build-debug/CMakeFiles/blackjack.dir

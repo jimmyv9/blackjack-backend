@@ -1,0 +1,98 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/JPV/Documents/Joao/Rhodes/2017-2018/2017 Fall/Computer Science/1_Veloso_Joao/card.cpp
+card.h
+/Users/JPV/Documents/Joao/Rhodes/2017-2018/2017 Fall/Computer Science/1_Veloso_Joao/card.h
+iostream
+-
+
+/Users/JPV/Documents/Joao/Rhodes/2017-2018/2017 Fall/Computer Science/1_Veloso_Joao/card.h
+iostream
+-
+
+/Users/JPV/Documents/Joao/Rhodes/2017-2018/2017 Fall/Computer Science/1_Veloso_Joao/deck.cpp
+algorithm
+-
+deck.h
+/Users/JPV/Documents/Joao/Rhodes/2017-2018/2017 Fall/Computer Science/1_Veloso_Joao/deck.h
+card.h
+/Users/JPV/Documents/Joao/Rhodes/2017-2018/2017 Fall/Computer Science/1_Veloso_Joao/card.h
+vector
+/Users/JPV/Documents/Joao/Rhodes/2017-2018/2017 Fall/Computer Science/1_Veloso_Joao/vector
+random
+-
+
+/Users/JPV/Documents/Joao/Rhodes/2017-2018/2017 Fall/Computer Science/1_Veloso_Joao/deck.h
+iostream
+-
+vector
+/Users/JPV/Documents/Joao/Rhodes/2017-2018/2017 Fall/Computer Science/1_Veloso_Joao/vector
+hand.h
+/Users/JPV/Documents/Joao/Rhodes/2017-2018/2017 Fall/Computer Science/1_Veloso_Joao/hand.h
+player.h
+/Users/JPV/Documents/Joao/Rhodes/2017-2018/2017 Fall/Computer Science/1_Veloso_Joao/player.h
+card.h
+/Users/JPV/Documents/Joao/Rhodes/2017-2018/2017 Fall/Computer Science/1_Veloso_Joao/card.h
+
+/Users/JPV/Documents/Joao/Rhodes/2017-2018/2017 Fall/Computer Science/1_Veloso_Joao/hand.cpp
+hand.h
+/Users/JPV/Documents/Joao/Rhodes/2017-2018/2017 Fall/Computer Science/1_Veloso_Joao/hand.h
+deck.h
+/Users/JPV/Documents/Joao/Rhodes/2017-2018/2017 Fall/Computer Science/1_Veloso_Joao/deck.h
+iostream
+-
+
+/Users/JPV/Documents/Joao/Rhodes/2017-2018/2017 Fall/Computer Science/1_Veloso_Joao/hand.h
+iostream
+-
+vector
+-
+card.h
+/Users/JPV/Documents/Joao/Rhodes/2017-2018/2017 Fall/Computer Science/1_Veloso_Joao/card.h
+
+/Users/JPV/Documents/Joao/Rhodes/2017-2018/2017 Fall/Computer Science/1_Veloso_Joao/human.cpp
+human.h
+/Users/JPV/Documents/Joao/Rhodes/2017-2018/2017 Fall/Computer Science/1_Veloso_Joao/human.h
+
+/Users/JPV/Documents/Joao/Rhodes/2017-2018/2017 Fall/Computer Science/1_Veloso_Joao/human.h
+player.h
+/Users/JPV/Documents/Joao/Rhodes/2017-2018/2017 Fall/Computer Science/1_Veloso_Joao/player.h
+hand.h
+/Users/JPV/Documents/Joao/Rhodes/2017-2018/2017 Fall/Computer Science/1_Veloso_Joao/hand.h
+
+/Users/JPV/Documents/Joao/Rhodes/2017-2018/2017 Fall/Computer Science/1_Veloso_Joao/main.cpp
+iostream
+-
+iostream
+-
+ctime
+-
+player.h
+/Users/JPV/Documents/Joao/Rhodes/2017-2018/2017 Fall/Computer Science/1_Veloso_Joao/player.h
+card.h
+/Users/JPV/Documents/Joao/Rhodes/2017-2018/2017 Fall/Computer Science/1_Veloso_Joao/card.h
+hand.h
+/Users/JPV/Documents/Joao/Rhodes/2017-2018/2017 Fall/Computer Science/1_Veloso_Joao/hand.h
+deck.h
+/Users/JPV/Documents/Joao/Rhodes/2017-2018/2017 Fall/Computer Science/1_Veloso_Joao/deck.h
+human.h
+/Users/JPV/Documents/Joao/Rhodes/2017-2018/2017 Fall/Computer Science/1_Veloso_Joao/human.h
+
+/Users/JPV/Documents/Joao/Rhodes/2017-2018/2017 Fall/Computer Science/1_Veloso_Joao/player.cpp
+player.h
+/Users/JPV/Documents/Joao/Rhodes/2017-2018/2017 Fall/Computer Science/1_Veloso_Joao/player.h
+
+/Users/JPV/Documents/Joao/Rhodes/2017-2018/2017 Fall/Computer Science/1_Veloso_Joao/player.h
+iostream
+-
+vector
+-
+hand.h
+/Users/JPV/Documents/Joao/Rhodes/2017-2018/2017 Fall/Computer Science/1_Veloso_Joao/hand.h
+
