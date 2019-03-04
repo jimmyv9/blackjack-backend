@@ -1,12 +1,3 @@
-/*
- * NAME: JOÃO PEDRO VELOSO
- * PROGRAM 1
- *
- * EXTRA CREDIT: CARDS ARE POINTERS
- *             : MORE THAN 2 HUMAN PLAYERS
- *             : GAMES ONLY END WHEN ALL HUMANS HAVE LEFT THE TABLE
- */
-
 #include <iostream>
 
 #include <iostream>
